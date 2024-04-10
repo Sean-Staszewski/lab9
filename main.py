@@ -1,6 +1,6 @@
 from encoder import encoder
 
-from encoder import decoder
+from decoder import decoder
 
 def main():
     while True:
